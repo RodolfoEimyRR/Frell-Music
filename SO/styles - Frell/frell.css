@@ -1,0 +1,10 @@
+.backgroundGrad{
+    background:linear-gradient(180deg, crimson,royalblue,purple);
+}
+.backgroundNav{
+    background-color: rgb(214, 214, 214);
+    border-radius: 4px 4px;
+}
+.textColor{
+    color: white;
+}
